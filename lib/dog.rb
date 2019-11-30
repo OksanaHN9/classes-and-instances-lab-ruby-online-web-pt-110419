@@ -1,1 +1,2 @@
-def dog = "dalmation"
+def Dog = "dalmation"
+  
